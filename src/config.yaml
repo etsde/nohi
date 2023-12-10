@@ -1,7 +1,7 @@
 site:
   name: nohi
-  site: 'https://etsde.github.io/nohi'
-  base: '/'
+  site: 'https://etsde.github.io'
+  base: '/nohi'
   trailingSlash: false
 
   googleSiteVerificationId: false
